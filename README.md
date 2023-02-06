@@ -6,7 +6,7 @@ When you open a picture in your phone or computer, there are 3 types of behaviou
 
 2. Aspect Fit // in this type of behaviour, all of the picture is being shown on screen space without any deformation
 
-3. Aspect Fill // in this type of behaviour, the picture is being zoomed in (without any deformation) untill top and bottem edges of the picture hits the boundries of the device's screen.
+3. Aspect Fill // in this type of behaviour, the picture is being zoomed in untill top and bottem edges of the picture hits the boundries of the device's screen.
 
 ![Guide](https://user-images.githubusercontent.com/80382116/216987389-0ca8cdb6-d5fc-4813-969a-3e3a66a1de79.jpeg)
 
