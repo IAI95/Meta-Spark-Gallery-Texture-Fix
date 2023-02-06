@@ -2,7 +2,7 @@
 
 When you open a picture in your phone or computer, there are 3 types of behaviour between that picture and your screen
 
-1. Fill // in this type of behaviour, the picture is being filled all over the screen space without caring that it's being streched or deformed (which unfortunatly Meta Spark is using this type by default)
+1. Fill // in this type of behaviour, the picture is being filled all over the screen space without caring that it's being stretched or deformed (which unfortunatly Meta Spark is using this type by default)
 
 2. Aspect Fit // in this type of behaviour, all of the picture is being shown on screen space without any deformation
 
